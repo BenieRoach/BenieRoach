@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BennieRoach
 - 👀 I’m interested in ...Full stack web dev
 - 🌱 I’m currently learning ...backend
+- 🌱 I’m currently learning ...backend web dev
 - 💞️ I’m looking to collaborate on ...any project u need!
 - 📫 How to reach me ...email, benrokach07@gmail.com
 
